@@ -4,7 +4,7 @@ namespace Delegates
 {
     public class PhotoProcessor
     {
-        // Delegate
+        // Custom Delegate that points to a method that return void and take Photo as a parameter.
         public delegate void PhotoFilterHandler(Photo photo);
 
         public void Process(string path, PhotoFilterHandler filterHandler)
