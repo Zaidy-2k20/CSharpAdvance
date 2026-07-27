@@ -1,7 +1,0 @@
-C:\Projects\CSharpAdvance\Generics\Generics\bin\Debug\Generics.exe.config
-C:\Projects\CSharpAdvance\Generics\Generics\bin\Debug\Generics.exe
-C:\Projects\CSharpAdvance\Generics\Generics\bin\Debug\Generics.pdb
-C:\Projects\CSharpAdvance\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
-C:\Projects\CSharpAdvance\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
-C:\Projects\CSharpAdvance\Generics\Generics\obj\Debug\Generics.exe
-C:\Projects\CSharpAdvance\Generics\Generics\obj\Debug\Generics.pdb
