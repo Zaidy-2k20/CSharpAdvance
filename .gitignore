@@ -4,6 +4,7 @@ obj/
 
 # Visual Studio
 .vs/
+**/.vs/
 *.user
 *.suo
 
@@ -16,3 +17,8 @@ obj/
 # ReSharper
 _ReSharper*/
 *.DotSettings.user
+
+# Visual Studio cache
+*.cache
+*.db
+*.VC.db
